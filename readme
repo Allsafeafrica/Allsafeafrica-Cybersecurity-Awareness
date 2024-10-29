@@ -1,0 +1,15 @@
+README.md
+awareness/
+   - phishing-awareness.md
+   - password-security.md
+   - data-privacy.md
+premium-content/
+   - advanced-threats.md (restricted access for premium users)
+templates/
+   - incident-response-checklist.docx
+   - password-policy-template.docx
+media/
+   - infographics/
+      - phishing-infographic.png
+   - videos/
+      - 2fa-tutorial.mp4
